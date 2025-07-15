@@ -1,2 +1,4 @@
-# portfolio
-This repository showcases my data analyst portfolio, featuring real-world projects involving data cleaning, visualization, dashboard creation, and insight generation using Excel, SQL, and Python.
+My Data Analytics Projects
+
+ [Excel Sales Dashboard](./Excel-Sales-Dashboard/README.md)
+Built an interactive Excel dashboard using PivotTables, Slicers, and visual analytics to explore retail sales data.
